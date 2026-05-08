@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vectorise": {
+      "command": "vectorise-mcp",
+      "args": ["serve"]
+    }
+  }
+}
