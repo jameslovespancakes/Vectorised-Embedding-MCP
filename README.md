@@ -127,11 +127,6 @@ python tests/smoke_test_filters.py
 python tests/smoke_test_office.py
 python tests/smoke_test_chunking.py
 python tests/smoke_test_legacy_skip.py
-
-# build + publish
-rm -rf dist/
-python -m build
-python -m twine upload dist/*
 ```
 
 ## License
